@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobtest",
+  "name": "Mob Test",
+  "description": "Mob Test",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ICannt Team"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
