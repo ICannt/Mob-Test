@@ -16,7 +16,6 @@ public abstract class CommonProxy {
 	
     public void preInit(FMLPreInitializationEvent event) {
     	EntityInit.registerEntities();
-    	RenderHandler.registerEntityRenders();
     }
 
     public void init(FMLInitializationEvent event) {
